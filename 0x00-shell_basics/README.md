@@ -7,3 +7,4 @@
 ./6-firstdirectory is creating a directory(my_first_directory) in tmp directory from current directory
 ./7-movethatfile is moving betty from /tmp/ to /tmp/my_first_directory/
 ./8-firstdelete deleted betty from /tmp/my_first_directory/
+./9-firstdirdeletion deleted directory my_first_directory/
