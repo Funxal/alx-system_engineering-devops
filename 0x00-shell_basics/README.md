@@ -10,3 +10,4 @@
 ./9-firstdirdeletion deleted directory my_first_directory/
 ./10-back is for navigating to previous directory
 ./11-lists is displaying all files(and hidden files)in current working,previous directory and boot directory in long format
+./12-file_type is displaying file type
