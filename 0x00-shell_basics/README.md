@@ -13,4 +13,4 @@
 ./12-file_type is displaying file type
 ./13-symbolic_link is creating a soft link
 ./14-copy_html is copying html files
-
+i./100-lets_move is moving files with upper case letter to /tmp/u
