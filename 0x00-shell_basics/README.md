@@ -12,5 +12,7 @@
 ./11-lists is displaying all files(and hidden files)in current working,previous directory and boot directory in long format
 ./12-file_type is displaying file type
 ./13-symbolic_link is creating a soft link
-./14-copy_html is copying html files
-i./100-lets_move is moving files with upper case letter to /tmp/u
+./14-copy_html is copying html files 
+./100-lets_move is moving files with upper case letter to /tmp/u
+./101-clean_emacs is removing all emacs files
+
