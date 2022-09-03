@@ -12,3 +12,5 @@
 ./11-lists is displaying all files(and hidden files)in current working,previous directory and boot directory in long format
 ./12-file_type is displaying file type
 ./13-symbolic_link is creating a soft link
+./14-copy_html is copying html files
+
